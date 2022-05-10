@@ -1,0 +1,7 @@
+- Criação de repositório local git
+
+- Criação de conta no GitHub
+
+- Criação de chave ssh
+
+- Criação de repositório remoto no GitHub
